@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T09:31:32.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="SWuEAoeY5tmczoxz_Kpi" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T09:41:45.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="GGLSi-ReX1laIdX-IxBu" version="20.8.20" type="github">
   <diagram name="第 1 页" id="kj1M-bRNRRDU2jlIfBdu">
     <mxGraphModel dx="658" dy="424" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,6 +390,66 @@
         </mxCell>
         <mxCell id="WweJSm30jnENtZpqqi2R-60" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Transformer&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="345" y="2833" width="151.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="WweJSm30jnENtZpqqi2R-62" target="WweJSm30jnENtZpqqi2R-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-62" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 21px;&quot;&gt;Encoders&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="197" y="3501" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="WweJSm30jnENtZpqqi2R-64" target="WweJSm30jnENtZpqqi2R-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-64" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 21px;&quot;&gt;Decoders&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="506.5" y="3501" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-65" value="编码信息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="374" y="3490" width="87" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="WweJSm30jnENtZpqqi2R-67" target="WweJSm30jnENtZpqqi2R-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="3437" />
+              <mxPoint x="257" y="3437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-67" value="使用自然语言的人工反馈" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="126" y="3324.5" width="109" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="WweJSm30jnENtZpqqi2R-69" target="WweJSm30jnENtZpqqi2R-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="347" y="3437" />
+              <mxPoint x="257" y="3437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-69" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;十字路口的特征等信息，当前决策&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270.5" y="3320" width="139" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="WweJSm30jnENtZpqqi2R-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="566.5" y="3275.4285714285716" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-71" value="基于强化学习的信号灯时长预测算法" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;rounded=0;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="506.5" y="3312.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-72" value="更新后的信号灯时长预测" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="529.5" y="3231" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="3487.5" width="485" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-74" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Transformer&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="349" y="3588" width="151.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=21;" edge="1" parent="1" source="WweJSm30jnENtZpqqi2R-90" target="WweJSm30jnENtZpqqi2R-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WweJSm30jnENtZpqqi2R-90" value="算法中被更新的可解释性参数" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#ff2600;" vertex="1" parent="1">
+          <mxGeometry x="506.5" y="3406" width="121.5" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
