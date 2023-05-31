@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T05:46:28.690Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qlpxtZM9wAJVZMMEzhBj" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T05:48:06.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="fW7alysew4CpZKHu6B-O" version="21.3.6" type="github">
   <diagram id="k2rvhCsjcbMWJMhxdaMS" name="第 1 页">
     <mxGraphModel dx="1500" dy="784" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
             <mxPoint x="607.1428571428573" y="911.4285975864957" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-1" value="main主函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;main主函数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="938" width="120" height="63" as="geometry" />
         </mxCell>
         <mxCell id="PnBYLoEIrVin0BYlbdNM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnBYLoEIrVin0BYlbdNM-2" target="PnBYLoEIrVin0BYlbdNM-6">
@@ -98,16 +98,16 @@
         <mxCell id="PnBYLoEIrVin0BYlbdNM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnBYLoEIrVin0BYlbdNM-2" target="PnBYLoEIrVin0BYlbdNM-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-2" value="Kernel类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Kernel类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="850" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-3" value="SuperBlock类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SuperBlock类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4" y="742" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnBYLoEIrVin0BYlbdNM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnBYLoEIrVin0BYlbdNM-4" target="PnBYLoEIrVin0BYlbdNM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-4" value="BufferManger类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;BufferManger类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="152" y="745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnBYLoEIrVin0BYlbdNM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PnBYLoEIrVin0BYlbdNM-5" target="PnBYLoEIrVin0BYlbdNM-12">
@@ -116,7 +116,7 @@
         <mxCell id="PnBYLoEIrVin0BYlbdNM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PnBYLoEIrVin0BYlbdNM-5" target="PnBYLoEIrVin0BYlbdNM-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-5" value="FileSystem类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FileSystem类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="308" y="747" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnBYLoEIrVin0BYlbdNM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PnBYLoEIrVin0BYlbdNM-6">
@@ -124,37 +124,37 @@
             <mxPoint x="589.1428920200892" y="693.1428571428573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-6" value="FileManager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;FileManager类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="464" y="745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnBYLoEIrVin0BYlbdNM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnBYLoEIrVin0BYlbdNM-7" target="PnBYLoEIrVin0BYlbdNM-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-7" value="InodeTable类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;InodeTable类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="745" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-8" value="DirectoryEntry类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;DirectoryEntry类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnBYLoEIrVin0BYlbdNM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnBYLoEIrVin0BYlbdNM-9" target="PnBYLoEIrVin0BYlbdNM-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-9" value="OpenFile类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;OpenFile类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="952" y="745" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PnBYLoEIrVin0BYlbdNM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PnBYLoEIrVin0BYlbdNM-10" target="PnBYLoEIrVin0BYlbdNM-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-10" value="OpenFiileTable类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-10" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;OpenFiileTable类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1111" y="745" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-11" value="File类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;File类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1045" y="631" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-12" value="Buf类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Buf类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="637" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PnBYLoEIrVin0BYlbdNM-13" value="Inode类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PnBYLoEIrVin0BYlbdNM-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Inode类&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="631" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
